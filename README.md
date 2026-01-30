@@ -46,8 +46,9 @@ Gold Layer (Business-Ready Tables using DLT)
 ---
 
 ## 📂 Project Structure
+
 netflix-data-engineering-databricks/
-│
+```
 ├── 1_AutoLoader.ipynb
 ├── 2_silver.ipynb
 ├── 3_lookup.ipynb
@@ -56,6 +57,8 @@ netflix-data-engineering-databricks/
 ├── 6_GetDayNumber.ipynb
 ├── 7_DLT_Notebook.ipynb
 └── README.md
+```
+
 
 
 ## 📘 Notebook Descriptions
@@ -145,12 +148,6 @@ These tables are:
 - Version control integration with GitHub
 
 ---
-
-## 🔐 Notes
-
-- No credentials or secrets are exposed
-- Storage paths and configurations are environment-specific
-- This project is intended for **learning, portfolio, and demonstration purposes**
 
 ---
 
