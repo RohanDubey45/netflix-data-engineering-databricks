@@ -4,7 +4,7 @@
 <img width="973" height="668" alt="image" src="https://github.com/user-attachments/assets/7d9ae5ad-ad7d-4440-8b71-4ee9ff548999" />
 
 
-## Dynamic Pipeline Visuals
+## Dynamic Pipeline Visuals & Workflow DAGs
 <img width="995" height="278" alt="image" src="https://github.com/user-attachments/assets/efe15eb8-8201-4b23-b928-548685784391" />
 <img width="913" height="248" alt="image" src="https://github.com/user-attachments/assets/8a51f3e1-7fbb-4f22-be63-cc1d4477f544" />
 <img width="930" height="315" alt="image" src="https://github.com/user-attachments/assets/004b2801-b872-42b0-9692-18aa507560e6" />
