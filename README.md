@@ -1,7 +1,8 @@
 # Netflix Azure Data Engineering End-to-End Pipeline using Azure Databricks
 
 ## Project Architecture
-<img width="974" height="668" alt="image" src="https://github.com/user-attachments/assets/97220445-67f2-4aa4-af4d-ba8050a23112" />
+<img width="973" height="668" alt="image" src="https://github.com/user-attachments/assets/7d9ae5ad-ad7d-4440-8b71-4ee9ff548999" />
+
 
 
 <img width="995" height="278" alt="image" src="https://github.com/user-attachments/assets/efe15eb8-8201-4b23-b928-548685784391" />
